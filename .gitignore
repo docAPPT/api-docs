@@ -1,6 +1,10 @@
 # Logs
 logs
 *.log
+<<<<<<< HEAD
+=======
+npm-debug.log*
+>>>>>>> bd2c3faa16c9891b82a969d431d804ed48511d50
 
 # Runtime data
 pids
@@ -13,6 +17,7 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
+<<<<<<< HEAD
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
@@ -31,3 +36,26 @@ themes/default/public/lib/
 .DS_Store
 
 .idea
+=======
+# nyc test coverage
+.nyc_output
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+>>>>>>> bd2c3faa16c9891b82a969d431d804ed48511d50

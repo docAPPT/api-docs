@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Raneto Logo](https://raw.githubusercontent.com/gilbitron/Raneto/master/logo/logo_readme.png)](http://raneto.com/)
 
 Change log
@@ -42,3 +43,7 @@ Raneto was created by [Gilbert Pellegrom](http://gilbert.pellegrom.me) from [Dev
 Maintained by [Ryan Lelek](http://www.ryanlelek.com) from [AnsibleTutorials.com](http://www.ansibletutorials.com).  
 Logo by [@mmamrila](https://github.com/mmamrila)  
 Released under the [MIT license](https://raw.githubusercontent.com/gilbitron/Raneto/master/LICENSE).
+=======
+# api-docs
+Node.js API Documentation backend, based off Raneto.
+>>>>>>> bd2c3faa16c9891b82a969d431d804ed48511d50
